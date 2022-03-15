@@ -1,6 +1,6 @@
 # Potfolio
 # About me
-Hi, my name is Klaudia, I have a Masters in Food Technology but recently i discovered a passion for Software Testing. For several months I have been systematically exploring Software Testing knowledge and gaining experience by testing web and mobile applications on crowd testing platforms. In my portfolio you will find something about my skills, sources from which I gained my knowledge and bugs I reported.
+Hi, my name is Klaudia, I have a Masters in Food Technology but recently I discovered a passion for Software Testing. For several months I have been systematically exploring Software Testing knowledge and gaining experience by testing web and mobile applications on crowd testing platforms. In my portfolio you will find something about my skills, sources from which I gained my knowledge and bugs I reported.
 # Tools
 * Test Link
 * Jira
