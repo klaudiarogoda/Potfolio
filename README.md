@@ -30,10 +30,9 @@ Hi, my name is Klaudia, I have a Masters in Food Technology but recently i disco
 * SQL w mgnieniu oka - B.Forta
 # Bugs Reports
 Przykłady błędów które znalazłam i zgłosiłam, część z nich została naprawiona po moim zgłoszeniu (otrzymałam podziękowania)
-* **Bulldogjob** błąd zgłoszony, naprawiony
-* **Błąd w formularzu aplikacyjnym** błąd zgłoszony
-* **Stary Teatr** błąd zgłoszony
-* **Aplikacja TUI** błąd zgłoszony
+* **Bulldogjob** ,błąd zgłoszony, naprawiony [link do raportu](https://drive.google.com/drive/folders/17Jllh7MidpKNHZTECc32AS-3Vx4yw5ft?usp=sharing)
+* **Stary Teatr** błąd zgłoszony [link do raportu](https://drive.google.com/drive/folders/1IfcSBEVKKnau3wrfna8iLThkoeAHy_VY?usp=sharing)
+* **Aplikacja TUI** błąd zgłoszony [link do raportu](https://drive.google.com/drive/folders/1NFDxIazKikMmRXdlZ3M51KdCdVtrt6JB?usp=sharing)
 
 # LinkedIn profile 
 [link_klaudiarogoda](https://www.linkedin.com/in/klaudia-rogoda-46548620a/)
