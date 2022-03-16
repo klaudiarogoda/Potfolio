@@ -36,5 +36,4 @@ Przykłady błędów które znalazłam i zgłosiłam, część z nich została n
 
 # LinkedIn profile 
 [link_klaudiarogoda](https://www.linkedin.com/in/klaudia-rogoda-46548620a/)
-# uTest profile
-[link_klaudiarogoda](https://www.utest.com/profile/klaudiarogoda/about)
+
