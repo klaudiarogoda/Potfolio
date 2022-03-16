@@ -33,7 +33,8 @@ Przykłady błędów które znalazłam i zgłosiłam, część z nich została n
 * **Bulldogjob** błąd zgłoszony, naprawiony [link do raportu](https://drive.google.com/drive/folders/17Jllh7MidpKNHZTECc32AS-3Vx4yw5ft?usp=sharing)
 * **Stary Teatr** błąd zgłoszony [link do raportu](https://drive.google.com/drive/folders/1IfcSBEVKKnau3wrfna8iLThkoeAHy_VY?usp=sharing)
 * **Aplikacja TUI** błąd zgłoszony [link do raportu](https://drive.google.com/drive/folders/1NFDxIazKikMmRXdlZ3M51KdCdVtrt6JB?usp=sharing)
-
+# Test Link - Test Plan
+Napisany przeze mnie pzykładowy test plan w Test Linku [TestPlan.pdf](file:///C:/Users/klaud/OneDrive/Pulpit/screencapture-localhost-testlink-index-php-2022-03-16-11_07_35.pdf)
 # LinkedIn profile 
 [link_klaudiarogoda](https://www.linkedin.com/in/klaudia-rogoda-46548620a/)
 
