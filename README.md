@@ -35,9 +35,9 @@ Przykłady błędów które znalazłam i zgłosiłam, część z nich została n
 * **Aplikacja TUI** błąd zgłoszony [link do raportu](https://drive.google.com/drive/folders/1NFDxIazKikMmRXdlZ3M51KdCdVtrt6JB?usp=sharing)
 # Test Link - Test Plan, Test Cases, Bug Report
 Wykonałam weryfikację poprawności działania wyszukiwarki na stronie tui.pl, utworzyłam plan testu, przypadki testowe oraz raport z wykrytego defektu. Zachęcam do zapoznania się z załącznikami:
-* [TestPlan.pdf](https://drive.google.com/file/d/1O5NFwepuWHX29br6TK6pnUilNUYQtimu/view?usp=sharing)
-* [TestCases.pdf](https://drive.google.com/file/d/1AKU4ZCoOPXD6_F_VsJUxiQO5VuFARClz/view?usp=sharing)
-* [BugReport.pdf](https://drive.google.com/file/d/1FmnthF2EorVF9nCGVOvV195F5rD0S6Vo/view?usp=sharing)
+* [Test Plan Design Report](https://drive.google.com/file/d/1EnEjo1hgQKLGWBEKcuNt3XsREH3RIhT4/view?usp=sharing)
+* [Test Plan Execution Report](https://drive.google.com/file/d/1H-iUQaF3QJc-Tz_dMtnCyRVZNRQ26sEX/view?usp=sharing)
+* [Bug Report Jira](https://drive.google.com/file/d/1FmnthF2EorVF9nCGVOvV195F5rD0S6Vo/view?usp=sharing)
 # LinkedIn profile 
 [link_klaudiarogoda](https://www.linkedin.com/in/klaudia-rogoda-46548620a/)
 
