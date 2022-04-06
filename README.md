@@ -33,6 +33,7 @@ Przykłady błędów które znalazłam i zgłosiłam, część z nich została n
 * **Bulldogjob** błąd zgłoszony, naprawiony [link do raportu](https://drive.google.com/drive/folders/17Jllh7MidpKNHZTECc32AS-3Vx4yw5ft?usp=sharing)
 * **Stary Teatr** błąd zgłoszony [link do raportu](https://drive.google.com/drive/folders/1IfcSBEVKKnau3wrfna8iLThkoeAHy_VY?usp=sharing)
 * **Aplikacja TUI** błąd zgłoszony [link do raportu](https://drive.google.com/drive/folders/1NFDxIazKikMmRXdlZ3M51KdCdVtrt6JB?usp=sharing)
+* **Sinsay** [link do raportu](https://drive.google.com/drive/folders/1D9IQ4WlV33Jg81zvdPvQCmdvuh5HAc1w?usp=sharing)
 # Test Link - Test Plan, Test Cases, Bug Report
 Wykonałam weryfikację poprawności działania wyszukiwarki na stronie tui.pl, utworzyłam plan testu, przypadki testowe oraz raport z wykrytego defektu. Zachęcam do zapoznania się z załącznikami:
 * [Test Plan Design Report](https://drive.google.com/file/d/1EnEjo1hgQKLGWBEKcuNt3XsREH3RIhT4/view?usp=sharing)
